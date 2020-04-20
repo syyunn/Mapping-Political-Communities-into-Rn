@@ -27,7 +27,7 @@ The rudimentary reason of choosing bipartite graph is actually about to handle t
 This paper also analyses all different sub graphs of the entire political network independtly, sectioned by the actor types.
 According to the paper, it refers following bipartites - examples include the interactions between 1) voters and politicians,
 2) politicians and pieces of legislation, 3) private firms and government entities, and democratic and
-4) autocratic countries - and these bipartites are all analyzed 1) independently with 2) single model. Our research will cover this issue by mapping the heterogenous graph into R^n space and densely codes the relation into the vectors where the distance between those encodes their relativities. 
+4) autocratic countries - and these bipartites are all analyzed 1) independently with 2) single model. Our research will cover this issue by mapping the heterogenous graph into R^n space and densely codes the relation into the vectors where the distance between those encodes their relativities. Relativities will encodes which actor types are similar, for example politician A would be much more closer to industry or corporatin B rather than politician B regradless of its role-type-similarity. This is what this paper complements.
 
 
 #### Methodology
