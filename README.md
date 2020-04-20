@@ -36,4 +36,4 @@ According to the paper, it refers following bipartites - examples include the in
 - Confined to Bipartite Graph. Easy to interpret and model the already-bipartitely set intuition. Not extensible to another graphical relationship. Relationship usually much more complex however, priorly confine those relationship into bipartite. 
 
 ## Our Methodologies
-Heterogenous graph embedding (like metapath++) + HARP like hierarchical graph embedding + density embedding (to incorporates mixed interaction in the **MPC**)
+Heterogenous graph embedding (like metapath++) + HARP like hierarchical graph embedding + bayesian-embedding (to incorporates mixed interaction in the **MPC**)
