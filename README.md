@@ -7,7 +7,7 @@
 - partitioning of political network into similarly behaving communities is their big interest.
 
 ## Literatures
-### Mapping Political Communities: A Statistical Analysis of Lobbying Networks in Legislative Politics
+### Mapping Political Communities: A Statistical Analysis of Lobbying Networks in Legislative Politics (MPC)
 paper http://web.mit.edu/insong/www/pdf/network.pdf
 appendix http://web.mit.edu/insong/www/pdf/appendix_network.pdf
 
@@ -36,4 +36,4 @@ According to the paper, it refers following bipartites - examples include the in
 - Confined to Bipartite Graph. Easy to interpret and model the already-bipartitely set intuition. Not extensible to another graphical relationship. Relationship usually much more complex however, priorly confine those relationship into bipartite. 
 
 ## Our Methodologies
-Heterogenous graph embedding (like metapath++) + HARP like hierarchical graph embedding
+Heterogenous graph embedding (like metapath++) + HARP like hierarchical graph embedding + density embedding (to incorporates mixed interaction in the **MPC**)
