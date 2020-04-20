@@ -5,7 +5,10 @@
 
 ## Why Embedding of Lobby Network
 Networks are easily and naturally represented by adjacency matrix, but such matrices are generally sparse and
-high dimension,thus not well suited to statistical learning. Information preserving representation finding let us leverage different kind of statistical learning method to interpret and transform the data distribution for another/down-stream tasks.
+high dimension,thus not well suited to statistical learning. Information preserving representation finding let us leverage different kind of statistical learning method to interpret and transform the data distribution for another/down-stream tasks. All of the above frameworks utilize the skip-gram model [33, 34] to learn a
+representation of a node incorporating its topological
+context, so nodes with similar topological information
+will have similar numerical representations.
 
 ### Anaology to Word2Vec to Emphasize the Importance of Finding Embeddings
 Word2vec [29] is the deep learning
