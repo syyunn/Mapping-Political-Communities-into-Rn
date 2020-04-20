@@ -21,3 +21,6 @@ appendix http://web.mit.edu/insong/www/pdf/appendix_network.pdf
   
 #### Pros and Cons
 - Confined to Bipartite Graph. Easy to interpret and model the already-bipartitely set intuition. Not extensible to another graphical relationship. Relationship usually much more complex however, priorly confine those relationship into bipartite. 
+
+## Our Methodologies
+Heterogenous graph embedding (like metapath++) + HARP like hierarchical graph embedding
