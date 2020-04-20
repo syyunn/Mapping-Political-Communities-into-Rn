@@ -18,7 +18,7 @@ appendix http://web.mit.edu/insong/www/pdf/appendix_network.pdf
 - Previous empirical studies of interest group politics have been limited by the difficulty of observing the ties between interest groups and politicians directly
 
 #### What will be referred about this paper in our research
-The rudimentary reason of choosing bipartite graph is actually about to handle the two different types of groups that are innately different in terms of actor role - such as polticians vs corporations. We will cover this issue not confining the network into bipartite, but represent the graph as heterogenous and to code what makes the node difference. In this way we can also find the dense representation about node-type-characteristics. 
+The rudimentary reason of choosing bipartite graph is actually about to handle the two different types of groups that are innately different in terms of actor role - such as polticians vs corporations. We will cover this issue not by confining the network into bipartite, but represent the graph as heterogenous and to code what makes the node difference. In this way we can also find the dense representation about node-type-characteristics. 
 
 #### Methodology
   
