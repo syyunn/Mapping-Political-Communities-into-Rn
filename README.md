@@ -1,6 +1,6 @@
 # Mapping-Political-Communities-into-R^n
 ## Goals 
-1. Summarize current approaches about cluster analysis of political network with potential shortages of them. 
+1. Summarize current approaches about cluster/latent analysis of political network with potential shortages of them. 
 2. Introduce the graph embedding that complements the 1's shortages.
 
 ## Literatures
