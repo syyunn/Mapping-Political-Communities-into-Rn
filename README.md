@@ -31,11 +31,11 @@ According to the paper, it refers following bipartites - examples include the in
 
 3. Latent memberships inferred from the mixture poisson in MPC are only from the "how many/numbers" of interactions between two different types of actors. However, the grounding assumption of the paper - how many times determines the political community membership - is too insufficient to determine the membership identity of each actors. Maybe the paper has also holds the strong assumption - if two different actor groups interacts to each other more times - such as microsoft interacts to the bill #A and so does apple, this overlapping relation to other group might be interpreted as membership identity, however, shared identity is not only constructred from the fixed 2 types of bipartite interaction, rather, it's more generally comprised from the more complex graphically structured interactions. Therfore, we are focusing on finding membership from the following, under the more generalized notions:
 
-  1) topologically similar nodes (with similar sub-structures or located near each other in the network)
+  - topologically similar nodes (with similar sub-structures or located near each other in the network)
   
-  2) the semantically similar nodes (with same node-types or logistically related attributes)
+  - the semantically similar nodes (with same node-types or logistically related attributes)
   
-  3) edge type information, which indicates different relationships among nodes.
+  - edge type information, which indicates different relationships among nodes.
 
 
 #### Methodology
