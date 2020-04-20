@@ -1,9 +1,9 @@
-# lobby-cluster
-Lists up lobby clustering paper and check out complementary margin with current SOTA graph embedding methods
+# Mapping-Political-Communities-into-R^n
+## Goals 
+1. Summarize current approaches about cluster analysis of political network with potential shortages of them. 
+2. Introduce the graph embedding that complements the 1's shortages.
 
-## List
-https://appliednetsci.springeropen.com/track/pdf/10.1007/s41109-018-0099-7
-
-## Mapping 
-https://asiapolmeth.princeton.edu/sites/default/files/polmeth/files/insongkim_2.pdf
-cons: cannot interpolate between latent spaces
+## Literatures
+### Mapping Political Communities: A Statistical Analysis of Lobbying Networks in Legislative Politics
+paper http://web.mit.edu/insong/www/pdf/network.pdf
+appendix http://web.mit.edu/insong/www/pdf/appendix_network.pdf
