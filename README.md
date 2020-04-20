@@ -7,6 +7,20 @@
 Networks are easily and naturally represented by adjacency matrix, but such matrices are generally sparse and
 high dimension,thus not well suited to statistical learning. Information preserving representation finding let us leverage different kind of statistical learning method to interpret and transform the data distribution for another/down-stream tasks.
 
+### Anaology to Word2Vec to Emphasize the Importance of Finding Embeddings
+Word2vec [29] is the deep learning
+model developed by Google to represent a word in a
+low dimension dense vector, which has proven to be
+successful in natural language processing [30]. By close
+analogy, topological paths neighboring a node may be
+handled like sequences of words, and word2vec can be
+adapted to network representation learning to reduce
+computing complexity and improve performance relative
+to conventional approaches. Accordingly, several recent
+publications have proposed word2vec-based network representation learning frameworks, such as DeepWalk [4],
+GraRep [31], TADW [31], CNRL [32], LINE [5], node2vec
+[6], and metapath2vec [7].
+
 ## General Trends in PolSci over Network analysis
 - partitioning of political network into similarly behaving communities is their big interest.
 
