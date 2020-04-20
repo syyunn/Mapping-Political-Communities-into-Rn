@@ -7,3 +7,6 @@
 ### Mapping Political Communities: A Statistical Analysis of Lobbying Networks in Legislative Politics
 paper http://web.mit.edu/insong/www/pdf/network.pdf
 appendix http://web.mit.edu/insong/www/pdf/appendix_network.pdf
+
+#### Goal
+Inferring political actors’ latent memberships
