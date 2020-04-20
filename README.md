@@ -3,6 +3,10 @@
 1. Summarize current approaches about cluster/latent-memberships analysis of political network with potential shortages of them. 
 2. Introduce the graph embedding that complements the 1's shortages.
 
+## Why Embedding of Lobby Network
+Networks are easily and naturally represented by adjacency matrix, but such matrices are generally sparse and
+high dimension,thus not well suited to statistical learning. Information preserving representation finding let us leverage different kind of statistical learning method to interpret and transform the data distribution for another/down-stream tasks.
+
 ## General Trends in PolSci over Network analysis
 - partitioning of political network into similarly behaving communities is their big interest.
 
