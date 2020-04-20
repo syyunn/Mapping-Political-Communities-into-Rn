@@ -17,8 +17,18 @@ appendix http://web.mit.edu/insong/www/pdf/appendix_network.pdf
 #### Starting notion
 - Previous empirical studies of interest group politics have been limited by the difficulty of observing the ties between interest groups and politicians directly
 
-#### What will be referred about this paper in our research
+#### What will be complemented of this paper in our paper
+1. Manual and Boolean Distinction of Actor types
+
 The rudimentary reason of choosing bipartite graph is actually about to handle the two different types of groups that are innately different in terms of actor role - such as polticians vs corporations. We will cover this issue not by confining the network into bipartite, but represent the graph as heterogenous and to code what makes the node difference. In this way we can also find the dense representation about node-type-characteristics. 
+
+2. Holistic Analyses that incorporates all different types of bipartites.
+
+This paper also analyses all different sub graphs of the entire political network independtly, sectioned by the actor types.
+According to the paper, it refers following bipartites - examples include the interactions between 1) voters and politicians,
+2) politicians and pieces of legislation, 3) private firms and government entities, and democratic and
+4) autocratic countries - and these bipartites are all analyzed 1) independently with 2) single model. Our research will cover this issue by mapping the heterogenous graph into R^n space and densely codes the relation into the vectors where the distance between those encodes their relativities. 
+
 
 #### Methodology
   
