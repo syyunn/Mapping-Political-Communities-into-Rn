@@ -3,6 +3,9 @@
 1. Summarize current approaches about cluster/latent-memberships analysis of political network with potential shortages of them. 
 2. Introduce the graph embedding that complements the 1's shortages.
 
+## General Trends in PolSci over Network analysis
+- partitioning of political network into similarly behaving communities is their big interest.
+
 ## Literatures
 ### Mapping Political Communities: A Statistical Analysis of Lobbying Networks in Legislative Politics
 paper http://web.mit.edu/insong/www/pdf/network.pdf
