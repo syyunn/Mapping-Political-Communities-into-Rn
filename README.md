@@ -60,7 +60,9 @@ According to the paper, it refers following bipartites - examples include the in
 
 
 #### Methodology
-  
+##### Sampling Strategy
+Since the network is in large-scale, sampling strategy is required since the model can't learn it at once. 
+ 
 #### Pros and Cons
 - Confined to Bipartite Graph. Easy to interpret and model the already-bipartitely set intuition. Not extensible to another graphical relationship. Relationship usually much more complex however, priorly confine those relationship into bipartite. 
 
